@@ -1,6 +1,6 @@
 <template>
   <header
-    class="container flex items-center justify-start md:justify-center px-4 py-4 mx-auto font-semibold leading-6 lg:py-6 relative md:fixed top-0 bg-slate-900 z-50"
+    class="container flex items-center justify-start md:justify-center px-4 py-4 mx-auto font-semibold leading-6 lg:py-6 relative md:fixed top-0 bg-slate-900 z-50 max-w-full"
   >
     <div class="flex items-center">
       <div class="flex md:hidden justify-evenly items-center fixed bottom-0 bg-slate-900 shadow-[0_35px_50px_1px_rgba(255,255,255,1)] w-full z-50 p-5 left-0">
