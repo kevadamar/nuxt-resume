@@ -13,7 +13,7 @@ const listLink: any[] = [
   {
     title: "Email",
     icon: "envelopes",
-    url: "mailto:kevadamarg@gmail.com",
+    url: "mailto:kevadamarg@gmail.com?subject=Inquiry&body=Hello, I have a question about....",
   },
   {
     title: "Instagram",
