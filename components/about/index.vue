@@ -59,7 +59,7 @@ const listLink: any[] = [
       </h1>
       <p class="tracking-wider text-justify indent-12">
         Hi 👋, I'm Keva and i am Frontend Developer. I have been working in the
-        information technology sector for approximately three years. In this
+        information technology sector for approximately five years. In this
         time, I have developed a working knowledge of all the latest trends and
         techniques for the best applications. I have worked in commercial
         environments such as Banks, Government and Ports. I also like challenges
